@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Lembar_Penilaian
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Lembar_Penilaian\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Lembar_Penilaian()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Lembar_Penilaian\r\n
+comment2.params=visible
+comment2.target=void\ setVisible(boolean)
+comment2.text=\r\n\ Method\ untuk\ menampilkan\ dan\ menutup\ frame\r\n\ \r\n\ @param\ \ visible\r\n
+comment3.params=
+comment3.target=void\ makeFrame()
+comment3.text=\r\n\ Method\ untuk\ membuat\ frame\r\n
+comment4.params=
+comment4.target=void\ komponenVisual()
+comment4.text=\r\n\ Method\ khusus\ untuk\ menambahkan\ komponen\ GUI\r\n\ \r\n\ \r\n
+numComments=5
